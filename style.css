@@ -63,11 +63,6 @@ nav {
     overflow: hidden;
 }
 
-a {
-    color: pink;
-    text-decoration: none;
-}
-
 .Home a {
     display: inline-flex;
     align-items: center;
@@ -79,7 +74,6 @@ a {
     width: fit-content;
     align-self: flex-start;
     border-radius: 10px;
-
 }
 
 .img {
